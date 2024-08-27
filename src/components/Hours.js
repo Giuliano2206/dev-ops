@@ -23,3 +23,5 @@ const Hours = () => {
 }
 
 export default Hours;
+
+// Realizado por Giuliano
